@@ -9,7 +9,7 @@ const Course = (() => {
 
   const MODULES = [
     { id: '01', file: '01-start.html',      title: 'Старт',        sub: 'Як тримати телефон і бачити кадр', ready: true },
-    { id: '02', file: '02-exposure.html',   title: 'Експозиція',   sub: 'Витримка, діафрагма, ISO — на пальцях' },
+    { id: '02', file: '02-exposure.html',   title: 'Експозиція',   sub: 'Витримка, діафрагма, ISO — на пальцях', ready: true },
     { id: '03', file: '03-composition.html',title: 'Композиція',   sub: 'Куди поставити героя і що прибрати' },
     { id: '04', file: '04-light.html',      title: 'Світло',       sub: 'Жорстке, м’яке, напрямок, час доби' },
     { id: '05', file: '05-focus.html',      title: 'Фокус',        sub: 'Різкість і глибина різкості' },
