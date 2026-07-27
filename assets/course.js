@@ -12,12 +12,12 @@ const Course = (() => {
     { id: '02', file: '02-exposure.html',   title: 'Експозиція',   sub: 'Витримка, діафрагма, ISO — на пальцях', ready: true },
     { id: '03', file: '03-composition.html',title: 'Композиція',   sub: 'Куди поставити героя і що прибрати', ready: true },
     { id: '04', file: '04-light.html',      title: 'Світло',       sub: 'Жорстке, м’яке, напрямок, час доби', ready: true },
-    { id: '05', file: '05-focus.html',      title: 'Фокус',        sub: 'Різкість і глибина різкості' },
-    { id: '06', file: '06-phone.html',      title: 'Телефон',      sub: 'HDR, RAW, зум, нічний режим' },
-    { id: '07', file: '07-portrait.html',   title: 'Портрет',      sub: 'Люди перед камерою' },
-    { id: '08', file: '08-genres.html',     title: 'Вулиця',       sub: 'Вулиця, пейзаж, предметка' },
-    { id: '09', file: '09-editing.html',    title: 'Обробка',      sub: 'Lightroom Mobile і Snapseed' },
-    { id: '10', file: '10-camera.html',     title: 'Камера',       sub: 'Як вибрати першу й перенести навички' },
+    { id: '05', file: '05-focus.html',      title: 'Фокус',        sub: 'Різкість і глибина різкості', ready: true },
+    { id: '06', file: '06-phone.html',      title: 'Телефон',      sub: 'HDR, RAW, зум, нічний режим', ready: true },
+    { id: '07', file: '07-portrait.html',   title: 'Портрет',      sub: 'Люди перед камерою', ready: true },
+    { id: '08', file: '08-genres.html',     title: 'Вулиця',       sub: 'Вулиця, пейзаж, предметка', ready: true },
+    { id: '09', file: '09-editing.html',    title: 'Обробка',      sub: 'Lightroom Mobile і Snapseed', ready: true },
+    { id: '10', file: '10-camera.html',     title: 'Камера',       sub: 'Як вибрати першу й перенести навички', ready: true },
     { id: '11', file: '11-project.html',    title: 'Проєкт',       sub: 'Серія з 10 кадрів і самооцінка' }
   ];
 
